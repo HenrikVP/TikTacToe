@@ -25,5 +25,10 @@
                 Console.Write(TTT[array[i,2]]);
             }
         }
+
+        static void GetKey()
+        {
+
+        }
     }
 }
